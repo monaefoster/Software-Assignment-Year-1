@@ -1,0 +1,18 @@
+HOW TO PLAY SNAKE GAME
+
+- Install Pycharm and open with Python 3.7
+- Install Pygame (see below for further instructions)
+- Ensure the music file 'music.mp3' is downloaded
+
+Installation of Pygame:
+1. Install Python 3.7 from https://www.python.org/
+2. Once download is complete, run Python through Pycharm application
+3. Open your command prompt and type: pip install pygame
+
+You can test your Pygame is installed correctly through opening your python interpreter and entering the following:
+import pygame
+print(pygame.ver)
+
+If Pygame was installed correctly, then you should see the version display.
+
+
